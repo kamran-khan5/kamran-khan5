@@ -1,5 +1,8 @@
 # 💫 About Me:
-## Hi there 👋 I'm Kamran Khan<br><br>🎓 Final Year Software Engineering Student  <br>💻 Software Engineer | Machine Learning Enthusiast  <br>🚀 Building scalable web apps & intelligent systems  <br><br>### 🔥 What I'm Working On<br>- 🛡️ Machine Learning-based Intrusion Detection System (IDS)<br>- 🌐 Full-stack apps using Next.js, Prisma & PostgreSQL<br>- 📊 Exploring AI, data preprocessing & model optimization<br><br>### 🧠 Interests<br>- Machine Learning & AI<br>- System Design<br>- Competitive Programming<br>- Building real-world scalable products<br><br>### 🎯 Goal<br>To build impactful tech products and create sustainable passive income streams in the next 5 years.<br><br>---<br><br>📫 Let's connect and build something amazing!
+## Hi there 👋 I'm Kamran Khan<br><br>🎓 Software Engineering Graduate  
+💻 Full-Stack Developer (JavaScript | React | TypeScript)  
+🧠 AI & Machine Learning Enthusiast  
+🚀 Building scalable web applications and intelligent systems  
 
 
 ## 🌐 Socials:
